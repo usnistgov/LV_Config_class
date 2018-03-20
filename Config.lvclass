@@ -159,6 +159,15 @@
 		</Item>
 	</Item>
 	<Item Name="Public" Type="Folder">
+		<Item Name="AddLogMsg.vi" Type="VI" URL="../Public/AddLogMsg.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%M!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;]!]1!!!!!!!!!$%E.P&lt;G:J:V^D&lt;'&amp;T=SZM&gt;GRJ9AZ$&lt;WZG;7=O&lt;(:D&lt;'&amp;T=QNF4'^H4(:M,G.U&lt;!!J1"9!!Q:/&lt;X*N97Q(6G6S9G^T:12/&lt;WZF!!B-&lt;W&gt;-:8:F&lt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!11$$`````"ERP:UVT:Q!!6!$Q!!Q!!Q!%!!1!"!!%!!1!"!!&amp;!!9!"!!(!!1$!!"Y!!!.#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!I!!!!!!!!!#!!!!!!!!!!!!1!)!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		</Item>
 		<Item Name="CheckUserFiles.vi" Type="VI" URL="../Public/CheckUserFiles.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;I!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%"!!!(`````!!-+28*S&lt;X*"=H*B?1!!"!!!!$B!=!!?!!!D%E.P&lt;G:J:V^D&lt;'&amp;T=SZM&gt;GRJ9AZ$&lt;WZG;7=O&lt;(:D&lt;'&amp;T=Q!+1W^O:GFH)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!91%!!!@````]!"QJ&amp;=H*P=E&amp;S=G&amp;Z!!!W1(!!(A!!)R*$&lt;WZG;7&gt;@9WRB=X-O&lt;(:M;7)/1W^O:GFH,GRW9WRB=X-!#5.P&lt;G:J:S"J&lt;A"B!0!!$!!%!!5!"1!'!!5!"1!&amp;!!5!#!!&amp;!!5!#1-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!"#A!!!!!!!!!!!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
